@@ -1,9 +1,9 @@
 <?php
 
-namespace Phantom\Cache\Adapter;
+namespace Nurymbet\Phantom\Cache\Adapter;
 
 use Exception;
-use Phantom\Cache\Exception\FileException;
+use Nurymbet\Phantom\Cache\Exception\FileException;
 
 class FileManager implements FileManagerInterface
 {

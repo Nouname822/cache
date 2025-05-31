@@ -1,6 +1,6 @@
 <?php
 
-namespace Phantom\Cache\Adapter;
+namespace Nurymbet\Phantom\Cache\Adapter;
 
 interface FileManagerInterface
 {

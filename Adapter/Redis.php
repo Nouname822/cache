@@ -1,10 +1,10 @@
 <?php
 
-namespace Phantom\Cache\Adapter;
+namespace Nurymbet\Phantom\Cache\Adapter;
 
 use Exception;
-use Phantom\Cache\Exception\RedisException;
-use Phantom\Cache\Setting;
+use Nurymbet\Phantom\Cache\Exception\RedisException;
+use Nurymbet\Phantom\Cache\Setting;
 use Predis\Client;
 
 class Redis implements RedisInterface

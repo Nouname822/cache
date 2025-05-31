@@ -1,9 +1,9 @@
 <?php
 
-namespace Phantom\Cache\Adapter;
+namespace Nurymbet\Phantom\Cache\Adapter;
 
 use Exception;
-use Phantom\Cache\Exception\FolderException;
+use Nurymbet\Phantom\Cache\Exception\FolderException;
 
 class FolderManager implements FolderManagerInterface
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Phantom\Cache\tests;
+namespace Nurymbet\Phantom\Cache\tests;
 
-use Phantom\Cache\Adapter\Redis;
-use Phantom\Cache\Setting;
+use Nurymbet\Phantom\Cache\Adapter\Redis;
+use Nurymbet\Phantom\Cache\Setting;
 use PHPUnit\Framework\TestCase;
 
 class RedisTest extends TestCase

@@ -1,12 +1,12 @@
 <?php
 
-namespace Phantom\Cache\Support;
+namespace Nurymbet\Phantom\Cache\Support;
 
 use Exception;
-use Phantom\Cache\Adapter\FileManager;
-use Phantom\Cache\Adapter\FolderManager;
-use Phantom\Cache\Exception\CacheException;
-use Phantom\Cache\Setting;
+use Nurymbet\Phantom\Cache\Adapter\FileManager;
+use Nurymbet\Phantom\Cache\Adapter\FolderManager;
+use Nurymbet\Phantom\Cache\Exception\CacheException;
+use Nurymbet\Phantom\Cache\Setting;
 
 class CheckCacheFile
 {

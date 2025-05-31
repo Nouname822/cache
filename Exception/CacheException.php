@@ -1,6 +1,6 @@
 <?php
 
-namespace Phantom\Cache\Exception;
+namespace Nurymbet\Phantom\Cache\Exception;
 
 use Exception;
 

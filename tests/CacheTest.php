@@ -1,9 +1,9 @@
 <?php
 
-namespace Phantom\Cache\tests;
+namespace Nurymbet\Phantom\Cache\tests;
 
-use Phantom\Cache\Adapter\Cache;
-use Phantom\Cache\Setting;
+use Nurymbet\Phantom\Cache\Adapter\Cache;
+use Nurymbet\Phantom\Cache\Setting;
 use PHPUnit\Framework\TestCase;
 
 class CacheTest extends TestCase

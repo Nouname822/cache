@@ -1,6 +1,6 @@
 <?php
 
-namespace Phantom\Cache;
+namespace Nurymbet\Phantom\Cache;
 
 class Setting
 {

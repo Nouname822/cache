@@ -1,12 +1,12 @@
 <?php
 
-namespace Phantom\Cache\Adapter;
+namespace Nurymbet\Phantom\Cache\Adapter;
 
-use Phantom\Cache\Setting;
-use Phantom\Cache\Support\CheckCacheFile;
-use Phantom\Cache\Support\CreateCacheFile;
-use Phantom\Cache\Support\ReadCacheFile;
-use Phantom\Cache\Support\RemoveCacheFile;
+use Nurymbet\Phantom\Cache\Setting;
+use Nurymbet\Phantom\Cache\Support\CheckCacheFile;
+use Nurymbet\Phantom\Cache\Support\CreateCacheFile;
+use Nurymbet\Phantom\Cache\Support\ReadCacheFile;
+use Nurymbet\Phantom\Cache\Support\RemoveCacheFile;
 
 class Cache implements CacheInterface
 {
