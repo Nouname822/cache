@@ -1,5 +1,5 @@
 {
-    "name": "phantom/cache",
+    "name": "nurymbet/cache",
     "keywords": [
         "caching",
         "cache"
@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Phantom\\Cache\\": ""
+            "Nurymbet\\Phantom\\Cache\\": ""
         }
     },
     "authors": [
