@@ -1,0 +1,28 @@
+{
+    "name": "phantom/cache",
+    "keywords": [
+        "caching",
+        "cache"
+    ],
+    "require": {
+        "predis/predis": "^3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phantom\\Cache\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Nouname822",
+            "email": "Nouname822@gmail.com"
+        }
+    ],
+    "scripts": {
+        "test": "phpunit"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
+    }
+}
