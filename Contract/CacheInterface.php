@@ -1,6 +1,6 @@
 <?php
 
-namespace Nurymbet\Phantom\Cache\Adapter;
+namespace Nurymbet\Phantom\Cache\Contract;
 
 interface CacheInterface
 {
