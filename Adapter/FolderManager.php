@@ -3,6 +3,7 @@
 namespace Nurymbet\Phantom\Cache\Adapter;
 
 use Exception;
+use Nurymbet\Phantom\Cache\Contract\FolderManagerInterface;
 use Nurymbet\Phantom\Cache\Exception\FolderException;
 
 class FolderManager implements FolderManagerInterface
