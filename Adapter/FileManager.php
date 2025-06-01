@@ -3,6 +3,7 @@
 namespace Nurymbet\Phantom\Cache\Adapter;
 
 use Exception;
+use Nurymbet\Phantom\Cache\Contract\FileManagerInterface;
 use Nurymbet\Phantom\Cache\Exception\FileException;
 
 class FileManager implements FileManagerInterface

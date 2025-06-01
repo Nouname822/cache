@@ -2,6 +2,8 @@
 
 namespace Nurymbet\Phantom\Cache\Adapter;
 
+use Nurymbet\Phantom\Cache\Contract\RuntimeInterface;
+
 class RuntimeCache implements RuntimeInterface
 {
     private string $namespace;

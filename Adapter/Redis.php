@@ -3,6 +3,7 @@
 namespace Nurymbet\Phantom\Cache\Adapter;
 
 use Exception;
+use Nurymbet\Phantom\Cache\Contract\RedisInterface;
 use Nurymbet\Phantom\Cache\Exception\RedisException;
 use Nurymbet\Phantom\Cache\Setting;
 use Predis\Client;

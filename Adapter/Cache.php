@@ -2,6 +2,7 @@
 
 namespace Nurymbet\Phantom\Cache\Adapter;
 
+use Nurymbet\Phantom\Cache\Contract\CacheInterface;
 use Nurymbet\Phantom\Cache\Setting;
 use Nurymbet\Phantom\Cache\Support\CheckCacheFile;
 use Nurymbet\Phantom\Cache\Support\CreateCacheFile;
